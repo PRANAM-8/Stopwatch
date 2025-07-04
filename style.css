@@ -1,0 +1,30 @@
+body {
+    /* background-image: url("./image.png"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: blanchedalmond;
+    /* padding-bottom: center; */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+#box {
+    padding: 50px;
+    border-radius: 12px;
+    background-color: aqua;
+}
+
+.time {
+    margin-left: 40px;
+}
+
+.butt {
+    border-radius: 6px;
+    background-color: yellow;
+}
