@@ -1,1 +1,1 @@
-# Stopwatch-SCT
+# Stopwatch
